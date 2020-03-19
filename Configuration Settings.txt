@@ -7,7 +7,9 @@ Bootstrap : 4.4.1
 popper.min.js(2.1.0)
 MySQL : 8.0.19
 MySQL Connector/J : 8.0.19
-javamail API : 1.4.7
+JavaMail API
+    JavaMail(mail.jar) : 1.4.7
+    JavaBeans Activation Framework(activation.jar) : 1.1.1
 
 # MySQL Database
 // Database Name : LectureEvaluation;
